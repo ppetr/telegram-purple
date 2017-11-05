@@ -85,7 +85,7 @@ this indicates that this version is in fact much further than just
 
 ##### Debian / Ubuntu
 
-We are working on a Debian package! Please first check if it's already available to you: `sudo apt-get install telegram-purple`
+We are working on a Debian package! Please first check if it's already available to you (see [this Debian bug](https://bugs.debian.org/833793)): `sudo apt-get install telegram-purple`
 
 If the above works, then you should stop here: It is now installed.
 
